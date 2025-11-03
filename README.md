@@ -24,7 +24,7 @@ This project combines Python web scraping and Tableau visualization to explore a
 - Added a **genre filter** that dynamically updates all visualizations simultaneously.
 - Styled the dashboard with a **neutral beige background** to match the atmosphere of a book visualization dashboard.
 
-<img width="1291" height="763" alt="allGS" src="https://github.com/user-attachments/assets/9349131c-38f0-444d-b849-b04a63c5efb3" />
+<img width="1285" height="762" alt="image" src="https://github.com/user-attachments/assets/5e65b141-09f8-4dd8-bbb9-0c0bd90000ac" />
 
 <img width="1288" height="761" alt="image" src="https://github.com/user-attachments/assets/b94ad406-670f-4562-b46b-c3ab10274107" />
 

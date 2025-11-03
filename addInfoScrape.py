@@ -49,7 +49,7 @@ with sync_playwright() as p:
         time.sleep(sleep_time)
 
         if id % 10 == 0:
-                with open("goodreads_books_with_genres.json", "w", encoding="utf-8") as f:
+                with open("goodreads_books_with_genres_partial.json", "w", encoding="utf-8") as f:
                     json.dump(books[:id], f, indent=2, ensure_ascii=False)
                 print(f"Autosaved progress at {id} books.")
 
